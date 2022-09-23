@@ -18,8 +18,8 @@ if you want to rescan press r/R
 
 After you have scanned all sides of the cube press enter to get the solution steps.
 
-<img src ="https://user-images.githubusercontent.com/83061722/191893827-c3ce385b-4659-424f-882c-7c9a2962a518.png" width="600" height="600" />
+<img src ="https://user-images.githubusercontent.com/83061722/191893827-c3ce385b-4659-424f-882c-7c9a2962a518.png" width="500" height="500" />
 
 After you got the solution follow the instructions - notice where it says 2 turn the cube twice on the same side.
 
-<img src ="https://user-images.githubusercontent.com/83061722/191894018-aa1c4809-f9a0-49c0-a29d-d95b2a9e9b6e.png" width="600" height="600" />
+<img src ="https://user-images.githubusercontent.com/83061722/191894018-aa1c4809-f9a0-49c0-a29d-d95b2a9e9b6e.png" width="600" height="500" />

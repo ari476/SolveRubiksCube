@@ -11,7 +11,8 @@ Follow the instructions at the top of the screen
 
 The color of the side will be defined according to the middle piece, that means if it says show the white side, it means that the middle of the side has white, the same goes for the top side
 
-![image](https://user-images.githubusercontent.com/83061722/191893220-f148c1ff-b686-4234-ba5d-c8b2c3b46cf7.png)
+<img src="https://user-images.githubusercontent.com/83061722/191893220-f148c1ff-b686-4234-ba5d-c8b2c3b46cf7.png" width="200" height="400" />
+
 
 if you want to rescan press r/R 
 
